@@ -1,4 +1,5 @@
 ### Oi, eu sou Levi's 👋
+## Atualmente estou estudando Javascript, HTML e CSS.
 
 ##
 <div>
