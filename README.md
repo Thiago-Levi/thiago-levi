@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, pode me chamr de Levi's 😎 </h1>
+<h1 align="center">Oi 👋, pode me chamar de Levi's 😎 </h1>
 <h3 align="center">Curto demais desenvolvimento frontend!</h3>
 
 <h3 align="left">Conecte-se comigo </h3>
