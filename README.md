@@ -1,3 +1,4 @@
+
 <h1>Olá 👋, pode me chamar de Levi's 😎 </h1>
 <p>👀 Estou interessado em Javascript, HTML e CSS.</p>
 <p>🌱 Atualmente estou estudando JavaScript, e me aprofundando em HTML e CSS.</p>
@@ -15,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-levi&show_icons=true&locale=en&theme=dracula" alt="thiago-levi" /></p>
 
 
+  ![Snake animation](https://github.com/Thiago-Levi/thiago-levi/blob/output/github-contribution-grid-snake.svg)
