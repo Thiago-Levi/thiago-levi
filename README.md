@@ -16,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-Levi&show_icons=true&locale=en&theme=dracula" alt="thiago-levi" /></p>
 
 
-  <!-- ![Snake animation](https://github.com/Thiago-Levi/thiago-levi/blob/output/github-contribution-grid-snake.svg)-->
