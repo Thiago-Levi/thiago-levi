@@ -4,7 +4,7 @@
 
 👀 No momento estou focado em Javascript. 
 
-🌱 Como dito, atualmente estou estudando/focando em JavaScript, mas em breve estarei implementando algum projeto utilizando framework ou biblioteca. 
+🌱 Pretendo em breve, implementar projetos utilizando os melhores frameworks ou biblioteca do front-end. 
 
 ✨Pronomes: Ele/Dele
 
