@@ -1,6 +1,7 @@
 
 # Olá 👋, pode me chamar de Levi's 😎
 
+Depois de trabalhar com Infraestrutura de TI, por 5 anos, estou vendo o quanto é incrível programar. ☕
 
 👀 No momento estou focado em Javascript. 
 
