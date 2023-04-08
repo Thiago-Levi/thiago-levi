@@ -3,7 +3,7 @@
 
 Depois de trabalhar com Infraestrutura de TI, por 5 anos, estou vendo o quanto é incrível programar. ☕
 
-👀 No momento estou focado em Javascript. 
+👀 No momento(2023) estou focado em Javascript, Typescript e React, mas estou aberto a oportunidades em outras stacks.  
 
 🌱 Pretendo em breve, implementar projetos utilizando os melhores frameworks ou biblioteca do front-end. 
 
