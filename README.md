@@ -3,11 +3,11 @@
 
 Depois de trabalhar com Infraestrutura de TI, por 5 anos, estou vendo o quanto é incrível programar. ☕
 
-👀 No momento(2023) estou focado em Javascript, Typescript e React, mas estou aberto a oportunidades em outras stacks.  
+👀 No momento(2023) estou focado em Javascript, Typescript e React, mas estou aberto a oportunidades em outras stacks. 
 
-🌱 Pretendo em breve, implementar projetos utilizando os melhores frameworks ou biblioteca do front-end. 
+📚 Sou estudante de Análie e Desenvolvimento de Sistemas e também estou fazendo um curso de Programação Web no IFTO - Instituto Federal de Tocantins onde estudaremos PHP, Javascript, Sql dentre outras dentro desse ecossistema. 
 
-✨Pronomes: Ele/Dele
+✨ Pronomes: Ele/Dele
 
 Interesses: Café ☕, gatos 🐱‍👓 , música 🎵
 
