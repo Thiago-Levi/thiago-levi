@@ -1,7 +1,7 @@
 
 # Olá 👋, pode me chamar de Levi's 😎
 
-Depois de trabalhar com Infraestrutura de TI, por 5 anos, estou vendo o quanto é incrível programar. ☕
+Depois de trabalhar com Infraestrutura de TI, por 5 anos, percebi o quanto é incrível programar. Desde então estou focado em realizar a migração para Pessoa Desenvolvedora ☕
 
 👀 No momento(2023) estou focado em Javascript, Typescript e React, mas estou aberto a oportunidades em outras stacks. 
 
