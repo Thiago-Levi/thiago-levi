@@ -5,6 +5,8 @@ Após trabalhar como Consultor de TI, percebi o quanto programação é incríve
 
 Atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas na UNINTER e também Desenvolvimento de software com foco em back-end na Cubos Academy.
 
+Depois de entender um pouco do básico sobre front-end, perecebi que BACK-END É ALGO QUE ME INTERESSA MAIS no momento e desde o segundo sementre de 2023 estou estudando sobre esse mundo fantástico em uma grande escola de programação com uma bolsa 100% patrocinada pelo Ifood.  
+
 Meu foco atual é Javascript/Nodejs, estruturas de dados, banco de dados relacionais e APIs.
 
 ✨ Pronomes: Ele/Dele
