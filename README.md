@@ -1,15 +1,15 @@
 
 # Olá 👋, pode me chamar de Levi's 😎
 
-Depois de trabalhar com Infraestrutura de TI, por 5 anos, percebi o quanto é incrível programar. Desde então estou focado em realizar a migração para Pessoa Desenvolvedora ☕
+Após trabalhar como Consultor de TI, percebi o quanto programação é incrível e decidi me tornar um Desenvolvedor com foco em Back-End. Dá uma conferida aqui nesse resumo ⬇
 
-👀 No momento(2023) estou focado em Javascript, Typescript e React, mas estou aberto a oportunidades em outras stacks. 
+Atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas na UNINTER e também Desenvolvimento de software com foco em back-end na Cubos Academy.
 
-📚 Sou estudante de Análie e Desenvolvimento de Sistemas e também estou fazendo um curso de Programação Web no IFTO - Instituto Federal de Tocantins onde estudaremos PHP, Javascript, Sql dentre outras dentro desse ecossistema. 
+Meu foco atual é Javascript/Nodejs, estruturas de dados, banco de dados relacionais e APIs.
 
 ✨ Pronomes: Ele/Dele
 
-Interesses: Café ☕, gatos 🐱‍👓 , música 🎵
+Interesses: Café ☕, gatos 🐱‍👓, música 🎵
 
 Hobbies: Tocar guitarra 🎸, jogos de tabuleiro 🎲
 ___
