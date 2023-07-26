@@ -1,13 +1,11 @@
 
 # Olá 👋, pode me chamar de Levi's 😎
 
-Após trabalhar como Consultor de TI, percebi o quanto programação é incrível e decidi me tornar um Desenvolvedor com foco em Back-End. Dá uma conferida aqui nesse resumo ⬇
+Sou cearense arretado, apreciador de um bom cuscuz e da tapioca com café.
 
-Atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas na UNINTER e também Desenvolvimento de software com foco em back-end na Cubos Academy.
+Estou fazendo graduação em Análise e Desenvolvimento de Sistemas e também Desenvolvimento de software com foco em back-end na Cubos Academy, onde ganhei uma bolsa integral, após ser aprovado em uma seleção com mais de 30 mil participantes. 
 
-Depois de entender um pouco do básico sobre front-end, perecebi que BACK-END É ALGO QUE ME INTERESSA MAIS no momento e desde o segundo sementre de 2023 estou estudando sobre esse mundo fantástico em uma grande escola de programação com uma bolsa 100% patrocinada pelo Ifood.  
-
-Meu foco atual é Javascript/Nodejs, estruturas de dados, banco de dados relacionais e APIs.
+Meu foco atual é desenvolvimento back-end com Javascript e Nodejs, estruturas de dados, banco de dados relacionais e APIs, mas também tive um contato inicial com o front-end. 
 
 ✨ Pronomes: Ele/Dele
 
