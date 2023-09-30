@@ -3,7 +3,7 @@
 
 Sou cearense arretado, apreciador de um bom cuscuz e da tapioca com café.
 
-Estou fazendo graduação em Análise e Desenvolvimento de Sistemas e também Desenvolvimento de software com foco em back-end na Cubos Academy, onde ganhei uma bolsa integral após ser aprovado em uma seleção com mais de 30 mil participantes. 
+Estou fazendo graduação em Análise e Desenvolvimento de Sistemas e também Desenvolvimento de software com foco em back-end na Cubos Academy, onde ganhei uma bolsa integral após ser aprovado em uma seleção com mais de 36 mil participantes. 
 
 Meu foco atual é desenvolvimento back-end com Javascript e Nodejs, estruturas de dados, banco de dados relacionais e APIs, mas também tive um contato inicial com o front-end. 
 
