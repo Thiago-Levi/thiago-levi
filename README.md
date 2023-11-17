@@ -11,10 +11,13 @@
 - 🧠 Conhecimento em estruturas de dados, banco de dados relacionais e APIs.
 - 🌐 Contato inicial com o front-end.
 
-Interesses: Café ☕, gatos 🐱‍👓, música 🎵
+# Sobre Mim ✨
 
-Hobbies: Tocar guitarra 🎸, jogos de tabuleiro 🎲
+- Pronomes: Ele/Dele
+- Interesses: Café ☕, gatos 🐱‍👓, música 🎵
+- Hobbies: Tocar guitarra 🎸, jogos de tabuleiro 🎲
 ___
+
 ### Tenho boa fluência em :
 
 <img alt="logo da linguagem HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="logo da linguagem CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="logo da linguagem Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Logo nodejs">
