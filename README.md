@@ -2,15 +2,14 @@
 # Olá 👋, pode me chamar de Levi's 😎
 
 - 👋 Sou cearense arretado, apreciador de um bom cuscuz e da tapioca com café.
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Cubos Academy.
-- 🎓 Bolsista integral após aprovação em seleção com mais de 36 mil participantes.
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter.
+- 🎓 Bolsista integral após aprovação em seleção com mais de 36 mil participantes na Cubos Academy.
 
 # Experiência e Foco 💻
 
 - 🚀 Desenvolvimento de software com foco em back-end em Javascript e Nodejs.
 - 🧠 Conhecimento em estruturas de dados, banco de dados relacionais e APIs.
 - 🌐 Contato inicial com o front-end.
-✨ Pronomes: Ele/Dele
 
 Interesses: Café ☕, gatos 🐱‍👓, música 🎵
 
