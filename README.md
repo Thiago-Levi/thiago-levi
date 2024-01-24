@@ -7,7 +7,7 @@
 
 # Experiência e Foco 💻
 
-- 🚀 Desenvolvimento de software com foco em back-end em Javascript e Nodejs.
+- 🚀 Desenvolvimento de software com foco em back-end em Java, Javascript e Nodejs.
 - 🧠 Conhecimento em estruturas de dados, banco de dados relacionais e APIs.
 - 🌐 Contato inicial com o front-end.
 
