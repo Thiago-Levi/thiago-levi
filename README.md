@@ -25,7 +25,7 @@ ___
 
 
 ### Tenho menos fluência em:
- <img alt="logo do framework Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="logo do framework Jest" src="https://img.shields.io/badge/jest-default?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Logo python"> 
+ <img alt="logo do framework Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="logo do framework Jest" src="https://img.shields.io/badge/jest-default?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Logo python">  <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  ### Badge de perfil do Codewars:
 <img src="https://www.codewars.com/users/Thiago-Levi/badges/large" alt="Codewars Profile Badges">
 
