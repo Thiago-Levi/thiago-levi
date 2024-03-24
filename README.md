@@ -3,13 +3,12 @@
 
 - 👋 Sou cearense arretado, apreciador de um bom cuscuz e da tapioca com café.
 - 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter.
-- 🎓 Bolsista integral após aprovação em seleção com mais de 36 mil participantes na Cubos Academy.
+- 🎓 Fui bolsista integral após aprovação em seleção com mais de 36 mil participantes na Cubos Academy.
 
 # Experiência e Foco 💻
 
-- 🚀 Desenvolvimento de software com foco em back-end em Javascript, Nodejs e Java.
+- 🚀 Desenvolvimento de software com foco em back-end em C#, Nodejs e Java.
 - 🧠 Conhecimento em estruturas de dados, banco de dados relacionais e APIs.
-- 🌐 Contato inicial com o front-end.
 
 # Sobre Mim ✨
 
