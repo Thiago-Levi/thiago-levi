@@ -30,7 +30,7 @@ ___
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Levi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Levi&show_icons=true&locale=en&hide=portugol&layout=compact&theme=dracula" alt="github stats" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-Levi&show_icons=true&locale=en&theme=dracula&hide=stars,prs,issues,contribs" alt="github stats" /></p>
 
