@@ -7,7 +7,7 @@
 
 # Experiência e Foco 💻
 
-- 🚀 Desenvolvimento de software com foco em back-end em C#, Nodejs e Java.
+- 🚀 Desenvolvimento de software com foco em back-end em C#, Nodejs e PHP.
 - 🧠 Conhecimento em estruturas de dados, banco de dados relacionais e APIs.
 
 # Sobre Mim ✨
