@@ -66,39 +66,6 @@ Registro oficial do meu aprendizado, com trilhas, módulos e badges que refletem
 * 🌵 Cearense, fã de **cuscuz**, **tapioca com café** ☕
 * 🐱 Gatos, música 🎵 e tecnologia
 * 🎸 Guitarra | 🎲 Jogos de tabuleiro
-
-
-## 💻 Base Técnica
-
-* Desenvolvimento **back-end** e consumo/criação de **APIs REST**
-* Lógica de programação, **estruturas de dados** e **bancos de dados relacionais**
-* Análise de requisitos, **documentação funcional** e organização de processos
-
-**Tecnologias:**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-## 🎓 Formação
-
-* 📚 Análise e Desenvolvimento de Sistemas — **UNINTER**
-* 👨🏽‍💻 Capgemini START Salesforce - **Capgemini**
-* 🎓 Bolsista integral — **Cubos Academy**
-
----
-
-## ✨ Sobre Mim
-
-* Pronomes: Ele/Dele
-* 🌵 Cearense, fã de **cuscuz**, **tapioca com café** ☕
-* 🐱 Gatos, música 🎵 e tecnologia
-* 🎸 Guitarra | 🎲 Jogos de tabuleiro
-
 ---
 
 
