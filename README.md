@@ -1,71 +1,40 @@
 # 👋 Olá, pode me chamar de Thiago (Levi's) 😎
 
-Sou profissional de tecnologia com **base sólida em consultoria de T.I.**, experiência em **desenvolvimento backend** e atuação atual como **professor de Lógica de Programação e Programação para crianças** em escolas públicas do ensino fundamental. No momento, estou em **transição estratégica para o ecossistema Salesforce**.
+Atuo na área de Educação Tecnológica, ensinando lógica de programação e pensamento computacional para crianças e adolescentes, além de desenvolver projetos e estudos voltados ao desenvolvimento de software.
+
+Tenho experiência anterior em consultoria de Tecnologia da Informação, com atuação em ambientes corporativos, infraestrutura, redes e soluções de TI.
+
+Aqui no GitHub compartilho estudos, projetos e experiências práticas envolvendo desenvolvimento mobile, lógica de programação, backend e tecnologias utilizadas no meu processo contínuo de aprendizagem.
 
 ---
 
-## 🚀 Momento Atual
+## 🚀 Atualmente estudando e praticando
 
-* 👨‍🏫 Professor de **Lógica de Programação** e **Programação para crianças e adolescentes**
-* 📘 Formação como **Salesforce Administrator (Admin)**
-* ⚙️ Foco em **Automação de Processos**, **Modelagem de Negócio** e **Modelagem de Dados**
-* 🧠 Estudo prático de **Apex** e **SOQL**, conectando lógica de negócio à plataforma Salesforce
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Trailhead](https://img.shields.io/badge/Trailhead-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
-
----
-
-## 🔗 Salesforce Journey
-
-📂 **Organização dedicada aos meus estudos em Salesforce**  
-Neste espaço concentro **trilhas, exercícios práticos, experimentos e projetos** relacionados ao ecossistema Salesforce, mantendo uma organização clara da minha evolução como Admin.
-
-👉 https://github.com/thiago-salesforce-journey
-
----
-
-## 🧭 Trailhead
-
-🏅 **Meu perfil no Trailhead**  
-Registro oficial do meu aprendizado, com trilhas, módulos e badges que refletem minha evolução prática na plataforma Salesforce.
-
-👉 https://www.salesforce.com/trailblazer/thiago-levi
-
----
-
-## 💻 Base Técnica
-
-* Desenvolvimento **back-end** e consumo/criação de **APIs REST**
-* Lógica de programação, **estruturas de dados** e **bancos de dados relacionais**
-* Análise de requisitos, **documentação funcional** e organização de processos
-
-**Tecnologias:**
+- Kotlin e Jetpack Compose
+- Desenvolvimento Mobile Android
+- APIs REST e Backend
+- Lógica de Programação
+- Bancos de Dados
+- Salesforce e automação de processos
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
 ## 🎓 Formação
 
-* 📚 Análise e Desenvolvimento de Sistemas — **UNINTER**
-* 👨🏽‍💻 Capgemini START Salesforce — **Capgemini**
-* 🎓 Bolsista integral — **Cubos Academy**
+- Análise e Desenvolvimento de Sistemas — UNINTER
+- Técnico em Desenvolvimento de Sistemas — IF Sul de Minas
+- Desenvolvimento Mobile Android — IREDE
+- Desenvolvimento de Software — Foco em Backend — Cubos Academy
 
 ---
 
-## ✨ Sobre Mim
+## ✨ Sobre mim
 
-* Pronomes: Ele/Dele
-* 🌵 Cearense, fã de **cuscuz**, **tapioca com café** ☕
-* 🐱 Gatos, música 🎵 e tecnologia
-* 🎸 Guitarra | 🎲 Jogos de tabuleiro
----
-
-
+☕ Cearense apaixonado por tecnologia, ensino e aprendizado contínuo.  
+🎸 Música, jogos, café e projetos tecnológicos fazem parte da rotina.
