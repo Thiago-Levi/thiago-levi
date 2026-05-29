@@ -1,4 +1,4 @@
-# 👋 Olá, pode me chamar de Thiago (Levi's) 😎
+# 👋 Olá, pode me chamar de Levi 😎
 
 Atuo na área de Educação Tecnológica, ensinando lógica de programação e pensamento computacional para crianças e adolescentes, além de desenvolver projetos e estudos voltados ao desenvolvimento de software.
 
